@@ -1,5 +1,4 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
 import Modal from "./components/Modal";
 import styles from "./App.module.css";
 

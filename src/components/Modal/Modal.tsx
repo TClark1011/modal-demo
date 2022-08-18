@@ -1,4 +1,4 @@
-import { useId, useEffect, useRef, PropsWithChildren } from "react";
+import { useEffect, useRef, PropsWithChildren } from "react";
 import { createPortal } from "react-dom";
 import styles from "./Modal.module.css";
 
